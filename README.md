@@ -1,2 +1,2 @@
-# zelenkachris.github.io
-danmaku tester
+# DanmakuZ
+Classic BulletHell type game
